@@ -1,5 +1,5 @@
 # Prometheus
-Мы поднимем тестовые Grafana, Prometheus, Node exporter.Убедись, что у тебя на машине стоит docker, и docker-compose. В противном случае установи их.
+Мы поднимем тестовые Grafana, Prometheus, Node exporter. Убедись, что у тебя на машине стоит docker, и docker-compose. В противном случае установи их.
 Cкачаем docker-compose.yaml
 Создай папку prometheus:
   mkdir prometheus/prometheus.yml
